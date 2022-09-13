@@ -9,6 +9,14 @@ this project is only for react excercise but you can change the styles for bette
 ## technology
 JavaScript - React - Bootstrap - axios - unsplash API - Formik - Yup
 
+## Demo
+
+### Screen
+![search image (React) with unsplash Api Demo](https://i.ibb.co/BBrTY0F/Screenshot-from-2022-09-13-15-20-34.jpg)
+
+### Demo Page
+https://tiny-choux-b1df1e.netlify.app/
+
 ## Available Scripts for React
 
 In the project directory, you can run:
